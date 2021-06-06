@@ -30,15 +30,13 @@ WHAT IS TESTED?
   
   User Story 4: User can delete multiple task by clicking clean completed button
  
- Negative Scenario
- 
-  User Story 1: User can not create task in the list
+Negative Scenario 1: User can not create task in the list
   
-  User Story 2: User can not edit existing task in the list
+Negative Scenario 2: User can not edit existing task in the list
   
-  User Story 3: User can not delete existing task in the list
+Negative Scenario 3: User can not delete existing task in the list
   
-  User Story 4: User can not delete multiple task by clicking clean completed button
+Negative Scenario 4: User can not delete multiple task by clicking clean completed button
    
 
 HOW TESTED? Cucumber BDD
