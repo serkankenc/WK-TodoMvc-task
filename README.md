@@ -20,7 +20,7 @@ All dependencies in my pom.xml file come from Maven repository which means addit
 
 WHAT IS TESTED?
 
- Positive Scenario
+Positive Scenarios
  
   User Story 1: User can create task in the list
   
