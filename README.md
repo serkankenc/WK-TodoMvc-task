@@ -32,7 +32,7 @@ Positive Scenarios
  
 Negative Scenario 1: User can not create task in the list, if he put text field (what needs to be done) blank
   
-Negative Scenario 2: User can not edit existing task in the list if he or she dont double click the to do list
+Negative Scenario 2: User can not edit existing task in the list if he or she does not double click on the task
   
 Negative Scenario 3: User can not delete existing task in the list if he or she does not click destroy button
   
